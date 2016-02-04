@@ -1,0 +1,9 @@
+######################## Customized property values #########################
+ro.nfc.icon.enable=true
+persist.ro.ril.sms_sync_sending=1
+ro.nfc.se.sim.enable=true
+ro.product.locale.language=cs
+ro.product.locale.region=CZ
+ro.cst.prm=1276-8268:R2D
+#############################################################################
+

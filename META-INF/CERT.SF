@@ -1,0 +1,37 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: WwalHXccMhNH7Q/7PRViBVVCdq8=
+
+Name: file_contexts
+SHA1-Digest-Manifest: 10I3C5sy6LClOIyRGScN7k8zLas=
+
+Name: boot.img
+SHA1-Digest-Manifest: 3xMTlBGUmSmRptX69GwWfoHv7ug=
+
+Name: install/bin/backuptool.functions
+SHA1-Digest-Manifest: J5++NxPHL9rYSUW2+1jdYWI6rSA=
+
+Name: system.patch.dat
+SHA1-Digest-Manifest: 774VWw1Wa8Y+IPKHHCeM6N//yzE=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: dAMWcaYwJKFj58PXANaoAGSorUY=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest-Manifest: Tgpez5mhaEXBfKsfjE6vYWltc0M=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest-Manifest: QW7yPFUPbhU0tUYKW4i2EdneCnw=
+
+Name: install/bin/backuptool.sh
+SHA1-Digest-Manifest: Y9pJTYLZkC4gIPZ9z/a4qshIW6A=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: ETYi0IaKH6K0sHc9tBeBAN9hcRY=
+
+Name: system.transfer.list
+SHA1-Digest-Manifest: IVJI3XsIMT8ETwU3i/7ewFZWRcE=
+
+Name: system.new.dat
+SHA1-Digest-Manifest: HrXXYYj1/jJcXdmYi7cbOF8xp7Q=
+
